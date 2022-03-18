@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shvtf.
-- 👀 I’m interested in programming.
+- 👀 I’m interested in programming, server and network
 
 <!---
 shvtf/shvtf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
